@@ -14,7 +14,7 @@ Frontend website redesign developed as a technical assignment for Kiwi Digital, 
 
 ## Live Demo
 
-**Netlify:** - https://theworkculture.netlify.app
+**Netlify:** https://your-project-name.netlify.app  
 
 ---
 
